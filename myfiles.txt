@@ -1,0 +1,7 @@
+.classpath
+.project
+.settings
+anik
+bin
+myfiles.txt
+src
